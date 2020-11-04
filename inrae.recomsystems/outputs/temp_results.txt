@@ -1,0 +1,424 @@
+Experiment 0
+The real expected Borda scores are:  [21.  3. 11. 14. 10. 16.]
+Number of samples needed: 1000
+The initial expected loss is:  4.801
+
+
+EVOI of the current query:  1.1149
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c0 to c2.
+Pmax =  [25. 25. 24. 25. 25. 25.]
+Pmin =  [1. 0. 0. 0. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [13.79029184 12.50137233 11.54412417 12.23756217 12.42065081 12.50599868]
+Current expected loss:  4.024
+
+
+EVOI of the current query:  0.5537
+The question selected is: 'User v2, do you prefer c0 or c5? '
+User v2 prefers c0 to c5.
+Pmax =  [25. 25. 24. 25. 25. 24.]
+Pmin =  [2. 0. 0. 0. 0. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [14.37924546 12.51232301 11.84715447 12.28758564 12.39612679 11.57756463]
+Current expected loss:  3.563
+
+
+EVOI of the current query:  0.3098
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c0 to c1.
+Pmax =  [25. 24. 24. 25. 25. 24.]
+Pmin =  [3. 0. 0. 0. 0. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [14.72008825 11.79958328 12.00460841 12.29334477 12.43924501 11.74313029]
+Current expected loss:  3.145
+
+
+EVOI of the current query:  0.198
+The question selected is: 'User v2, do you prefer c0 or c4? '
+User v2 prefers c0 to c4.
+Pmax =  [25. 24. 24. 25. 24. 24.]
+Pmin =  [4. 0. 0. 0. 0. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [14.95884532 11.93618401 12.11719667 12.30237728 11.83677061 11.84862612]
+Current expected loss:  2.712
+
+
+EVOI of the current query:  0.1034
+The question selected is: 'User v2, do you prefer c0 or c3? '
+User v2 prefers c0 to c3.
+Pmax =  [25. 24. 24. 24. 24. 24.]
+Pmin =  [5. 0. 0. 0. 0. 0.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [15.11707317 12.01808179 12.1880066  11.83840088 11.91666972 11.92176783]
+Current expected loss:  2.656
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v4, do you prefer c3 or c4? '
+User v4 prefers c3 to c4.
+Pmax =  [25. 24. 24. 24. 23. 24.]
+Pmin =  [5. 0. 0. 1. 0. 0.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [15.15711181 12.00810835 12.20971633 13.00957934 10.70602012 11.90946404]
+Current expected loss:  2.58
+
+
+EVOI of the current query:  0.1061
+The question selected is: 'User v3, do you prefer c0 or c3? '
+User v3 prefers c0 to c3.
+Pmax =  [25. 24. 24. 23. 23. 24.]
+Pmin =  [6. 0. 0. 1. 0. 0.]
+Number of different questions asked:  7
+Number of samples needed: 1000
+Current EU:  [16.24756183 12.02472349 12.21154274 11.90961942 10.69961911 11.90693341]
+Current expected loss:  1.842
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c0 or c5? '
+User v0 prefers c5 to c0.
+Pmax =  [24. 24. 24. 23. 23. 24.]
+Pmin =  [6. 0. 0. 1. 0. 1.]
+Number of different questions asked:  8
+Number of samples needed: 1000
+Current EU:  [15.11973584 12.01037077 12.20247848 11.86357111 10.72390382 13.07993998]
+Current expected loss:  2.47
+
+
+EVOI of the current query:  0.2857
+The question selected is: 'User v3, do you prefer c0 or c5? '
+User v3 prefers c5 to c0.
+Pmax =  [23. 24. 24. 22. 23. 24.]
+Pmin =  [6. 0. 0. 1. 0. 3.]
+Number of different questions asked:  9
+Number of samples needed: 1000
+Current EU:  [13.99670627 11.97545487 12.19195396 11.28906002 10.74406674 14.80275812]
+Current expected loss:  2.819
+
+
+EVOI of the current query:  0.7701
+The question selected is: 'User v1, do you prefer c0 or c5? '
+User v1 prefers c0 to c5.
+Pmax =  [23. 24. 24. 22. 23. 23.]
+Pmin =  [7. 0. 0. 1. 0. 3.]
+Number of different questions asked:  10
+Number of samples needed: 1000
+Current EU:  [15.15803204 11.99023391 12.20128746 11.3364761  10.71906071 13.59490978]
+Current expected loss:  2.175
+
+
+EVOI of the current query:  0.3966
+The question selected is: 'User v4, do you prefer c0 or c5? '
+User v4 prefers c5 to c0.
+Pmax =  [22. 24. 24. 22. 23. 23.]
+Pmin =  [7. 0. 0. 1. 0. 4.]
+Number of different questions asked:  11
+Number of samples needed: 1000
+Current EU:  [14.01161068 11.96777197 12.22152045 11.29475402 10.6955397  14.80880318]
+Current expected loss:  2.321
+
+
+EVOI of the current query:  0.1335
+The question selected is: 'User v3, do you prefer c2 or c5? '
+User v3 prefers c5 to c2.
+Pmax =  [22. 24. 23. 22. 23. 23.]
+Pmin =  [7. 0. 0. 1. 0. 5.]
+Number of different questions asked:  12
+Number of samples needed: 1000
+Current EU:  [14.2785583  11.95458714 11.44873298 11.4265421  10.70794186 15.18363762]
+Current expected loss:  2.111
+
+
+EVOI of the current query:  0.0361
+The question selected is: 'User v2, do you prefer c2 or c5? '
+User v2 prefers c2 to c5.
+Pmax =  [22. 24. 23. 22. 23. 22.]
+Pmin =  [7. 0. 1. 1. 0. 5.]
+Number of different questions asked:  13
+Number of samples needed: 1000
+Current EU:  [14.2785583  11.97496417 12.41222867 11.48930771 10.63602294 14.20891821]
+Current expected loss:  2.686
+
+
+EVOI of the current query:  0.3316
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c0 to c2.
+Pmax =  [22. 24. 22. 22. 23. 22.]
+Pmin =  [8. 0. 1. 1. 0. 5.]
+Number of different questions asked:  14
+Number of samples needed: 1000
+Current EU:  [14.85013653 11.99689838 11.52443989 11.51606263 10.64252162 14.46994094]
+Current expected loss:  1.982
+
+
+EVOI of the current query:  0.2627
+The question selected is: 'User v1, do you prefer c2 or c5? '
+User v1 prefers c2 to c5.
+Pmax =  [22. 24. 22. 22. 23. 21.]
+Pmin =  [8. 0. 2. 1. 0. 5.]
+Number of different questions asked:  15
+Number of samples needed: 1000
+Current EU:  [14.85224996 12.0436346  12.35063037 11.54206584 10.585245   13.62617422]
+Current expected loss:  1.802
+
+
+EVOI of the current query:  0.0532
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [22. 23. 22. 22. 23. 21.]
+Pmin =  [9. 0. 2. 1. 0. 5.]
+Number of different questions asked:  16
+Number of samples needed: 1000
+Current EU:  [15.19961473 11.30972337 12.57621983 11.5623155  10.63441282 13.71771375]
+Current expected loss:  1.634
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v2, do you prefer c1 or c5? '
+User v2 prefers c5 to c1.
+Pmax =  [22. 21. 22. 22. 23. 21.]
+Pmin =  [9. 0. 3. 1. 0. 6.]
+Number of different questions asked:  17
+Number of samples needed: 1000
+Current EU:  [15.19961473  9.72794283 13.12901486 11.47949976 10.72136935 14.74255847]
+Current expected loss:  1.739
+
+
+EVOI of the current query:  0.1639
+The question selected is: 'User v3, do you prefer c0 or c2? '
+User v3 prefers c0 to c2.
+Pmax =  [22. 21. 21. 22. 23. 21.]
+Pmin =  [10.  0.  3.  1.  0.  6.]
+Number of different questions asked:  18
+Number of samples needed: 1000
+Current EU:  [15.63334679  9.73799068 12.49695744 11.69792082 10.69912054 14.73466374]
+Current expected loss:  1.355
+
+
+EVOI of the current query:  0.0197
+The question selected is: 'User v1, do you prefer c1 or c5? '
+User v1 prefers c1 to c5.
+Pmax =  [22. 21. 21. 22. 23. 20.]
+Pmin =  [10.  1.  3.  1.  0.  6.]
+Number of different questions asked:  19
+Number of samples needed: 1000
+Current EU:  [15.64141461 10.40037274 12.28555309 11.71227881 10.65126057 14.30912018]
+Current expected loss:  1.177
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v3, do you prefer c0 or c4? '
+User v3 prefers c4 to c0.
+Pmax =  [21. 21. 20. 21. 23. 20.]
+Pmin =  [10.  1.  3.  1.  3.  6.]
+Number of different questions asked:  20
+Number of samples needed: 1000
+Current EU:  [14.97737952 10.16002186 11.98730748 11.39385776 12.46441846 14.01701492]
+Current expected loss:  1.61
+
+
+EVOI of the current query:  0.1659
+The question selected is: 'User v1, do you prefer c0 or c4? '
+User v1 prefers c0 to c4.
+Pmax =  [21. 21. 20. 21. 22. 20.]
+Pmin =  [11.  1.  3.  1.  3.  6.]
+Number of different questions asked:  21
+Number of samples needed: 1000
+Current EU:  [15.19976648 10.30210241 12.12938803 11.43042805 11.8629853  14.07532972]
+Current expected loss:  1.292
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v4, do you prefer c0 or c1? '
+User v4 prefers c0 to c1.
+Pmax =  [21. 19. 20. 21. 22. 20.]
+Pmin =  [12.  1.  3.  1.  3.  7.]
+Number of different questions asked:  22
+Number of samples needed: 1000
+Current EU:  [16.28373022  8.6339364  12.1998576  11.41993259 11.83340716 14.62913603]
+Current expected loss:  0.713
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [21. 19. 18. 21. 22. 20.]
+Pmin =  [13.  1.  3.  1.  3.  8.]
+Number of different questions asked:  23
+Number of samples needed: 1000
+Current EU:  [17.43228791  8.65316716 10.4495142  11.39472654 11.86190991 15.20839427]
+Current expected loss:  0.262
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c3 or c5? '
+User v1 prefers c3 to c5.
+Pmax =  [21. 19. 18. 21. 22. 19.]
+Pmin =  [13.  1.  3.  2.  3.  8.]
+Number of different questions asked:  24
+Number of samples needed: 1000
+Current EU:  [17.39869329  8.53595925 10.33230628 11.90835103 11.82084981 15.00384034]
+Current expected loss:  0.253
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v3, do you prefer c1 or c4? '
+User v3 prefers c4 to c1.
+Pmax =  [21. 18. 18. 21. 22. 19.]
+Pmin =  [13.  1.  3.  2.  4.  8.]
+Number of different questions asked:  25
+Number of samples needed: 1000
+Current EU:  [17.53202662  7.92762592 10.41563962 11.98335103 12.06251648 15.07884034]
+Current expected loss:  0.245
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v3, do you prefer c1 or c5? '
+User v3 prefers c5 to c1.
+Pmax =  [21. 17. 18. 21. 22. 19.]
+Pmin =  [13.  1.  3.  2.  4.  9.]
+Number of different questions asked:  26
+Number of samples needed: 1000
+Current EU:  [17.59263268  7.71171683 10.4535184  12.01744194 12.02084981 15.20384034]
+Current expected loss:  0.245
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c2 or c4? '
+User v0 prefers c4 to c2.
+Pmax =  [21. 17. 17. 21. 22. 19.]
+Pmin =  [13.  1.  3.  2.  5.  9.]
+Number of different questions asked:  27
+Number of samples needed: 1000
+Current EU:  [17.35032499  7.67325529 10.10049643 12.04024414 12.7543663  15.08131286]
+Current expected loss:  0.318
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v3, do you prefer c2 or c3? '
+User v3 prefers c2 to c3.
+Pmax =  [21. 17. 17. 20. 22. 19.]
+Pmin =  [13.  1.  4.  2.  5.  9.]
+Number of different questions asked:  28
+Number of samples needed: 1000
+Current EU:  [17.37305226  7.51416438 10.72928431 11.54781989 12.7543663  15.08131286]
+Current expected loss:  0.298
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c3 or c5? '
+User v0 prefers c5 to c3.
+Pmax =  [21. 17. 17. 19. 22. 19.]
+Pmin =  [13.  1.  4.  2.  5. 10.]
+Number of different questions asked:  29
+Number of samples needed: 1000
+Current EU:  [17.59100098  7.5398054  10.82223302 10.8330763  12.79282784 15.42105645]
+Current expected loss:  0.266
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v3, do you prefer c1 or c3? '
+User v3 prefers c3 to c1.
+Pmax =  [21. 14. 17. 19. 22. 19.]
+Pmin =  [14.  1.  5.  3.  5. 10.]
+Number of different questions asked:  30
+Number of samples needed: 1000
+Current EU:  [17.84100098  6.2898054  11.23889969 11.41640964 12.69282784 15.52105645]
+Current expected loss:  0.191
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v4, do you prefer c4 or c5? '
+User v4 prefers c5 to c4.
+Pmax =  [21. 14. 17. 19. 21. 19.]
+Pmin =  [14.  1.  5.  3.  5. 11.]
+Number of different questions asked:  31
+Number of samples needed: 1000
+Current EU:  [17.94609196  6.34603113 11.25300723 11.302527   12.47364975 15.67869293]
+Current expected loss:  0.142
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v4, do you prefer c3 or c5? '
+User v4 prefers c5 to c3.
+Pmax =  [21. 14. 17. 18. 21. 19.]
+Pmin =  [14.  1.  5.  3.  5. 12.]
+Number of different questions asked:  32
+Number of samples needed: 1000
+Current EU:  [18.18197775  6.47354573 11.32049588 10.65911363 12.32147584 16.04339118]
+Current expected loss:  0.161
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v4, do you prefer c0 or c2? '
+User v4 prefers c0 to c2.
+Pmax =  [21. 14. 15. 18. 21. 19.]
+Pmin =  [15.  1.  5.  3.  5. 13.]
+Number of different questions asked:  33
+Number of samples needed: 1000
+Current EU:  [18.89936906  6.71267616  9.88571327 10.76780928 12.47364975 16.26078248]
+Current expected loss:  0.06
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c3 or c4? '
+User v1 prefers c3 to c4.
+Pmax =  [21. 14. 15. 18. 20. 19.]
+Pmin =  [15.  1.  5.  4.  5. 13.]
+Number of different questions asked:  34
+Number of samples needed: 1000
+Current EU:  [18.81813114  6.69591278  9.86894989 11.42802849 11.82890443 16.36007326]
+Current expected loss:  0.055
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c1 or c3? '
+User v2 prefers c3 to c1.
+Pmax =  [21. 13. 15. 18. 20. 19.]
+Pmin =  [15.  1.  5.  5.  5. 13.]
+Number of different questions asked:  35
+Number of samples needed: 1000
+Current EU:  [18.81813114  6.40722231  9.78264037 12.00540945 11.82890443 16.15769231]
+Current expected loss:  0.036
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c2 or c3? '
+User v2 prefers c2 to c3.
+Pmax =  [21. 13. 15. 17. 20. 19.]
+Pmin =  [15.  1.  6.  5.  5. 13.]
+Number of different questions asked:  36
+Number of samples needed: 1000
+Current EU:  [18.81813114  6.40154049 10.16332219 11.47131854 11.82890443 16.31678322]
+Current expected loss:  0.053
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c2 or c3? '
+User v1 prefers c3 to c2.
+Pmax =  [21. 13. 14. 17. 20. 19.]
+Pmin =  [15.  1.  6.  6.  5. 13.]
+Number of different questions asked:  37
+Number of samples needed: 1000
+Current EU:  [18.73085842  6.28638897  9.80817067 11.92343975 11.98769231 16.26344988]
+Current expected loss:  0.062
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v4, do you prefer c0 or c3? '
+User v4 prefers c0 to c3.
+Pmax =  [21. 13. 14. 16. 19. 19.]
+Pmin =  [17.  1.  6.  6.  5. 13.]
+Number of different questions asked:  38
+Number of samples needed: 1000
+Current EU:  [19.16564103  6.46899767 10.03715618 11.3437296  11.72102564 16.26344988]
+Current expected loss:  0.008
+
+
