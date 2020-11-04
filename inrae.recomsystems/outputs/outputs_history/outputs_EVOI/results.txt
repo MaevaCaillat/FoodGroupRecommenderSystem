@@ -1,0 +1,16 @@
+The heuristic:  EVOI
+The number of users:  2
+The number of items:  3
+The percentages of dataset queried:  [54.]
+The runtimes per query (seconds):  [0.32238506]
+The numbers of queries asked:  [2.76]
+The variance of the number of queries asked:  [0.7424]
+The expected losses:  [0.7134  0.27332 0.06072 0.03608 0.      0.     ]
+The heuristic:  EVOI
+The number of users:  3
+The number of items:  3
+The percentages of dataset queried:  [33.77777778]
+The runtimes per query (seconds):  [0.37822499]
+The numbers of queries asked:  [5.96]
+The variance of the number of queries asked:  [0.4384]
+The expected losses:  [1.4884  0.82868 0.45504 0.38712 0.16808 0.22464 0.03292 0.      0.     ]

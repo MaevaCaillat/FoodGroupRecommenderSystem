@@ -1,0 +1,1914 @@
+Experiment 0
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.495
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.  3.6 2.4]
+Current expected loss:  0.947
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [6. 5. 4.]
+Pmin =  [2. 1. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [4. 3. 2.]
+Current expected loss:  0.498
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 5. 4.]
+Pmin =  [2. 2. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.25 3.75 2.  ]
+Current expected loss:  0.455
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 4.]
+Pmin =  [3. 2. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85 3.15 2.  ]
+Current expected loss:  0.116
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 4.]
+Pmin =  [3. 2. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.25 2.75 3.  ]
+Current expected loss:  0.231
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 3. 3.]
+Pmin =  [3. 3. 2.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.         2.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.345208511222154econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 1
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.537
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.   2.25 3.75]
+Current expected loss:  0.703
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.4  2.25 4.35]
+Current expected loss:  0.281
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 6.]
+Pmin =  [1. 0. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.73333333 2.         4.26666667]
+Current expected loss:  0.246
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [5. 4. 5.]
+Pmin =  [2. 0. 2.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.48333333 2.         3.51666667]
+Current expected loss:  0.533
+
+
+EVOI of the current query:  0.4333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 4. 5.]
+Pmin =  [2. 0. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.15 2.   3.85]
+Current expected loss:  0.1
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [3. 4. 4.]
+Pmin =  [2. 2. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [2.75 3.   3.25]
+Current expected loss:  0.26
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [3. 4. 3.]
+Pmin =  [2. 3. 3.]
+Number of different questions asked:  7
+Number of samples needed: 1000
+Current EU:  [2.66666667 3.33333333 3.        ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 2.6455315118655562econds
+EVOI cuts the communication up to 22.22222222222222 percent
+
+
+Experiment 2
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.578
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.25 3.75 3.  ]
+Current expected loss:  0.675
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 1. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.25 3.   3.75]
+Current expected loss:  0.598
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 5. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.25 3.6  3.15]
+Current expected loss:  0.504
+
+
+EVOI of the current query:  0.325
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [5. 5. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.85       2.81666667]
+Current expected loss:  0.192
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 3.]
+Pmin =  [2. 3. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.25       2.41666667]
+Current expected loss:  0.362
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.2962966221384704econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 3
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.543
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.   2.25 3.75]
+Current expected loss:  0.735
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.4  2.25 4.35]
+Current expected loss:  0.27
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 5. 5.]
+Pmin =  [0. 1. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.4  2.85 3.75]
+Current expected loss:  0.448
+
+
+EVOI of the current query:  0.28
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 5. 4.]
+Pmin =  [0. 3. 2.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.   3.85 3.15]
+Current expected loss:  0.101
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [4. 5. 3.]
+Pmin =  [1. 3. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [2.66666667 3.58333333 2.75      ]
+Current expected loss:  0.155
+
+
+EVOI of the current query:  0.0833
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [3. 5. 3.]
+Pmin =  [1. 3. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.66666667 3.        ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 2.2621815660968423econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 4
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.354
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.25 3.75 3.  ]
+Current expected loss:  0.827
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.25 4.35 2.4 ]
+Current expected loss:  0.277
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 5. 4.]
+Pmin =  [2. 2. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.25 3.75 2.  ]
+Current expected loss:  0.447
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 4.]
+Pmin =  [3. 2. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85 3.15 2.  ]
+Current expected loss:  0.085
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [4. 4. 4.]
+Pmin =  [3. 2. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.6        3.06666667 2.33333333]
+Current expected loss:  0.135
+
+
+EVOI of the current query:  0.1333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [3. 3. 4.]
+Pmin =  [3. 2. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.         2.66666667 3.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.2450971817597747econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 5
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.391
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.75 3.   2.25]
+Current expected loss:  0.716
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 5.]
+Pmin =  [1. 1. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [3.   3.75 2.25]
+Current expected loss:  0.577
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 5. 5.]
+Pmin =  [2. 1. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.6  3.15 2.25]
+Current expected loss:  0.472
+
+
+EVOI of the current query:  0.325
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 5.]
+Pmin =  [3. 1. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85       2.81666667 2.33333333]
+Current expected loss:  0.187
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 5.]
+Pmin =  [3. 1. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.25       2.41666667 3.33333333]
+Current expected loss:  0.373
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [3. 3. 5.]
+Pmin =  [3. 1. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.         2.33333333 3.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.2592336242087185econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 6
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.511
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.6 2.4 3. ]
+Current expected loss:  0.827
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [6. 5. 5.]
+Pmin =  [2. 0. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [4.         2.66666667 2.33333333]
+Current expected loss:  0.478
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [6. 4. 5.]
+Pmin =  [3. 0. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [4.6        2.06666667 2.33333333]
+Current expected loss:  0.115
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [6. 3. 5.]
+Pmin =  [3. 0. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [4.33333333 1.66666667 3.        ]
+Current expected loss:  0.213
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 3. 5.]
+Pmin =  [3. 1. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.58333333 2.41666667 3.        ]
+Current expected loss:  0.337
+
+
+EVOI of the current query:  0.1667
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [5. 3. 4.]
+Pmin =  [3. 2. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 2.66666667 2.66666667]
+Current expected loss:  0.153
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  7
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.606516996398568econds
+EVOI cuts the communication up to 22.22222222222222 percent
+
+
+Experiment 7
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.493
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.25 3.75 3.  ]
+Current expected loss:  0.749
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.25 4.35 2.4 ]
+Current expected loss:  0.251
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [5. 6. 4.]
+Pmin =  [1. 2. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.91666667 4.08333333 2.        ]
+Current expected loss:  0.305
+
+
+EVOI of the current query:  0.0185
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 5. 4.]
+Pmin =  [2. 2. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.51666667 3.48333333 2.        ]
+Current expected loss:  0.532
+
+
+EVOI of the current query:  0.4333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 4.]
+Pmin =  [3. 2. 0.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.85 3.15 2.  ]
+Current expected loss:  0.1
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 4.]
+Pmin =  [3. 2. 2.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.25 2.75 3.  ]
+Current expected loss:  0.233
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [3. 3. 4.]
+Pmin =  [3. 2. 3.]
+Number of different questions asked:  7
+Number of samples needed: 1000
+Current EU:  [3.         2.66666667 3.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.5885307756252587econds
+EVOI cuts the communication up to 22.22222222222222 percent
+
+
+Experiment 8
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.518
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.86
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.66666667 2.33333333 4.        ]
+Current expected loss:  0.495
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [4. 5. 6.]
+Pmin =  [0. 0. 3.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.06666667 2.33333333 4.6       ]
+Current expected loss:  0.114
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [3. 5. 6.]
+Pmin =  [0. 1. 3.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [1.66666667 3.         4.33333333]
+Current expected loss:  0.186
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [3. 5. 5.]
+Pmin =  [0. 2. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [1.66666667 3.6        3.73333333]
+Current expected loss:  0.372
+
+
+EVOI of the current query:  0.3556
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [3. 5. 4.]
+Pmin =  [0. 3. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [1.66666667 3.93333333 3.4       ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 2.259897754061967econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 9
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.475
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.75 3.   2.25]
+Current expected loss:  0.792
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 5.]
+Pmin =  [1. 1. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [3.   3.75 2.25]
+Current expected loss:  0.583
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 5. 5.]
+Pmin =  [2. 1. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.6  3.15 2.25]
+Current expected loss:  0.481
+
+
+EVOI of the current query:  0.325
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 5.]
+Pmin =  [3. 1. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85       2.81666667 2.33333333]
+Current expected loss:  0.179
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 5.]
+Pmin =  [3. 1. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.25       2.41666667 3.33333333]
+Current expected loss:  0.444
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [3. 3. 5.]
+Pmin =  [3. 1. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.         2.33333333 3.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.2639062758535147econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 10
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.49
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.6 2.4 3. ]
+Current expected loss:  0.875
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [6. 5. 5.]
+Pmin =  [2. 0. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [4.         2.66666667 2.33333333]
+Current expected loss:  0.511
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [6. 4. 5.]
+Pmin =  [3. 0. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [4.6        2.06666667 2.33333333]
+Current expected loss:  0.146
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [6. 4. 4.]
+Pmin =  [3. 1. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [4.6 2.4 2. ]
+Current expected loss:  0.036
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [6. 3. 4.]
+Pmin =  [3. 1. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [4.33333333 2.         2.66666667]
+Current expected loss:  0.073
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 3. 4.]
+Pmin =  [3. 2. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.58333333 2.75       2.66666667]
+Current expected loss:  0.177
+
+
+EVOI of the current query:  0.0833
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  7
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.5648720958270133econds
+EVOI cuts the communication up to 22.22222222222222 percent
+
+
+Experiment 11
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.457
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.6 2.4 3. ]
+Current expected loss:  0.892
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [6. 5. 5.]
+Pmin =  [2. 0. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [4.         2.66666667 2.33333333]
+Current expected loss:  0.48
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 5. 5.]
+Pmin =  [2. 1. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.25       3.41666667 2.33333333]
+Current expected loss:  0.818
+
+
+EVOI of the current query:  0.5741
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 5.]
+Pmin =  [3. 1. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85       2.81666667 2.33333333]
+Current expected loss:  0.19
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 5.]
+Pmin =  [3. 1. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.25       2.41666667 3.33333333]
+Current expected loss:  0.423
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [3. 3. 5.]
+Pmin =  [3. 1. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.         2.33333333 3.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.2265387661755085econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 12
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.416
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.881
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.66666667 2.33333333 4.        ]
+Current expected loss:  0.437
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [4. 5. 6.]
+Pmin =  [0. 0. 3.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.06666667 2.33333333 4.6       ]
+Current expected loss:  0.14
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [4. 4. 6.]
+Pmin =  [1. 0. 3.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.4 2.  4.6]
+Current expected loss:  0.043
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [4. 3. 6.]
+Pmin =  [2. 0. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.  1.4 4.6]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 1.9439519057050347econds
+EVOI cuts the communication up to 44.44444444444444 percent
+
+
+Experiment 13
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.531
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.25 3.75 3.  ]
+Current expected loss:  0.761
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 1. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.25 3.   3.75]
+Current expected loss:  0.545
+
+
+EVOI of the current query:  0.25
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 5. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.25 3.6  3.15]
+Current expected loss:  0.491
+
+
+EVOI of the current query:  0.325
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [5. 5. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.85       2.81666667]
+Current expected loss:  0.191
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 3.]
+Pmin =  [2. 3. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.25       2.41666667]
+Current expected loss:  0.423
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.2768421922810376econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 14
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.467
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.25 3.75 3.  ]
+Current expected loss:  0.805
+
+
+EVOI of the current query:  0.3333
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.25 4.35 2.4 ]
+Current expected loss:  0.23
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 5. 4.]
+Pmin =  [2. 2. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.25 3.75 2.  ]
+Current expected loss:  0.464
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 4.]
+Pmin =  [3. 2. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.85 3.15 2.  ]
+Current expected loss:  0.083
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 3. 4.]
+Pmin =  [3. 2. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.58333333 2.75       2.66666667]
+Current expected loss:  0.161
+
+
+EVOI of the current query:  0.0833
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.262297177221626econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 15
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.486
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.84
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 6.]
+Pmin =  [0. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.66666667 2.33333333 4.        ]
+Current expected loss:  0.525
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [5. 5. 5.]
+Pmin =  [1. 0. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.41666667 2.33333333 3.25      ]
+Current expected loss:  0.797
+
+
+EVOI of the current query:  0.5741
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [4. 5. 5.]
+Pmin =  [1. 0. 3.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.81666667 2.33333333 3.85      ]
+Current expected loss:  0.217
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [3. 5. 4.]
+Pmin =  [1. 2. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [2.41666667 3.33333333 3.25      ]
+Current expected loss:  0.445
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [3. 5. 3.]
+Pmin =  [1. 3. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.66666667 3.        ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 2.2923035281710327econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 16
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.427
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.  3.6 2.4]
+Current expected loss:  0.85
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [6. 5. 4.]
+Pmin =  [2. 1. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [4. 3. 2.]
+Current expected loss:  0.477
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [6. 4. 4.]
+Pmin =  [3. 1. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [4.6 2.4 2. ]
+Current expected loss:  0.053
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [6. 3. 4.]
+Pmin =  [3. 1. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [4.33333333 2.         2.66666667]
+Current expected loss:  0.084
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 3. 4.]
+Pmin =  [3. 1. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.73333333 2.         3.26666667]
+Current expected loss:  0.13
+
+
+EVOI of the current query:  0.1333
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [4. 3. 4.]
+Pmin =  [3. 1. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.4 2.  3.6]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.2775742351077497econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 17
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.431
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.  3.6 2.4]
+Current expected loss:  0.85
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.33333333 4.         2.66666667]
+Current expected loss:  0.49
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.25       3.41666667]
+Current expected loss:  0.728
+
+
+EVOI of the current query:  0.5741
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 5. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.85       2.81666667]
+Current expected loss:  0.186
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 3.]
+Pmin =  [2. 3. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.25       2.41666667]
+Current expected loss:  0.449
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.2471727272495627econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 18
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.494
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.  3.6 2.4]
+Current expected loss:  0.876
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.33333333 4.         2.66666667]
+Current expected loss:  0.513
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 6. 4.]
+Pmin =  [0. 3. 0.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.33333333 4.6        2.06666667]
+Current expected loss:  0.121
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 5. 3.]
+Pmin =  [2. 3. 0.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.33333333 4.         1.66666667]
+Current expected loss:  0.294
+
+
+EVOI of the current query:  0.2963
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 4. 3.]
+Pmin =  [3. 3. 0.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.93333333 3.4        1.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 1.9282426130957901econds
+EVOI cuts the communication up to 44.44444444444444 percent
+
+
+Experiment 19
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.493
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [6. 5. 6.]
+Pmin =  [1. 0. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.6 2.4 3. ]
+Current expected loss:  0.919
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [5. 4. 6.]
+Pmin =  [1. 0. 2.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [3. 2. 4.]
+Current expected loss:  0.499
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [5. 4. 5.]
+Pmin =  [2. 0. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [3.75 2.   3.25]
+Current expected loss:  0.465
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [4. 4. 5.]
+Pmin =  [2. 0. 3.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [3.15 2.   3.85]
+Current expected loss:  0.101
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [3. 4. 5.]
+Pmin =  [2. 1. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [2.75       2.66666667 3.58333333]
+Current expected loss:  0.174
+
+
+EVOI of the current query:  0.0833
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [3. 3. 5.]
+Pmin =  [3. 1. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.         2.33333333 3.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 2
+Runtime = 2.235971388872713econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 20
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.543
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [6. 6. 5.]
+Pmin =  [0. 1. 0.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [3.  3.6 2.4]
+Current expected loss:  0.897
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c0 or c1? '
+User v2 prefers c1 to c0.
+Pmax =  [5. 6. 5.]
+Pmin =  [0. 2. 0.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2.33333333 4.         2.66666667]
+Current expected loss:  0.467
+
+
+EVOI of the current query:  0.0741
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [5. 5. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.25       3.41666667]
+Current expected loss:  0.807
+
+
+EVOI of the current query:  0.5741
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [5. 5. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.85       2.81666667]
+Current expected loss:  0.199
+
+
+EVOI of the current query:  0.0333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [5. 4. 3.]
+Pmin =  [2. 3. 1.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.25       2.41666667]
+Current expected loss:  0.455
+
+
+EVOI of the current query:  0.4167
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [5. 3. 3.]
+Pmin =  [3. 3. 1.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.66666667 3.         2.33333333]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.239460605662316econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 21
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.464
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.855
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 6. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2. 4. 3.]
+Current expected loss:  0.475
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [4. 6. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.  4.6 2.4]
+Current expected loss:  0.06
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v0, do you prefer c0 or c2? '
+User v0 prefers c0 to c2.
+Pmax =  [4. 6. 3.]
+Pmin =  [1. 3. 1.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.66666667 4.33333333 2.        ]
+Current expected loss:  0.079
+
+
+EVOI of the current query:  0.0
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [4. 5. 3.]
+Pmin =  [1. 3. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [2.66666667 3.58333333 2.75      ]
+Current expected loss:  0.161
+
+
+EVOI of the current query:  0.0833
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [3. 5. 3.]
+Pmin =  [1. 3. 3.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.66666667 3.        ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 2.2424901742488146econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 22
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.509
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.828
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 6. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2. 4. 3.]
+Current expected loss:  0.454
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [4. 5. 5.]
+Pmin =  [0. 2. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.   3.25 3.75]
+Current expected loss:  0.472
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [4. 5. 4.]
+Pmin =  [0. 3. 2.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.   3.85 3.15]
+Current expected loss:  0.093
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [3. 5. 4.]
+Pmin =  [0. 3. 3.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [1.66666667 3.93333333 3.4       ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 1.9164415360428393econds
+EVOI cuts the communication up to 44.44444444444444 percent
+
+
+Experiment 23
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.51
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.923
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 6. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2. 4. 3.]
+Current expected loss:  0.514
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v1, do you prefer c1 or c2? '
+User v1 prefers c2 to c1.
+Pmax =  [4. 5. 5.]
+Pmin =  [0. 2. 2.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.   3.25 3.75]
+Current expected loss:  0.487
+
+
+EVOI of the current query:  0.3889
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [4. 5. 4.]
+Pmin =  [0. 3. 2.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [2.   3.85 3.15]
+Current expected loss:  0.082
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c0 or c1? '
+User v1 prefers c0 to c1.
+Pmax =  [4. 4. 4.]
+Pmin =  [1. 3. 2.]
+Number of different questions asked:  5
+Number of samples needed: 1000
+Current EU:  [2.33333333 3.6        3.06666667]
+Current expected loss:  0.113
+
+
+EVOI of the current query:  0.1333
+The question selected is: 'User v0, do you prefer c0 or c1? '
+User v0 prefers c0 to c1.
+Pmax =  [4. 3. 3.]
+Pmin =  [3. 3. 2.]
+Number of different questions asked:  6
+Number of samples needed: 1000
+Current EU:  [3.33333333 3.         2.66666667]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 0
+Runtime = 2.239939256105572econds
+EVOI cuts the communication up to 33.333333333333336 percent
+
+
+Experiment 24
+The real expected utilities (Borda scores) are:  [3. 3. 3.]
+Number of samples needed: 1000
+The initial expected loss is:  1.597
+
+
+EVOI of the current query:  0.6667
+The question selected is: 'User v2, do you prefer c0 or c2? '
+User v2 prefers c2 to c0.
+Pmax =  [5. 6. 6.]
+Pmin =  [0. 0. 1.]
+Number of different questions asked:  1
+Number of samples needed: 1000
+Current EU:  [2.4 3.  3.6]
+Current expected loss:  0.834
+
+
+EVOI of the current query:  0.4
+The question selected is: 'User v2, do you prefer c1 or c2? '
+User v2 prefers c1 to c2.
+Pmax =  [4. 6. 5.]
+Pmin =  [0. 2. 1.]
+Number of different questions asked:  2
+Number of samples needed: 1000
+Current EU:  [2. 4. 3.]
+Current expected loss:  0.451
+
+
+EVOI of the current query:  0.2222
+The question selected is: 'User v0, do you prefer c1 or c2? '
+User v0 prefers c1 to c2.
+Pmax =  [4. 6. 4.]
+Pmin =  [0. 3. 1.]
+Number of different questions asked:  3
+Number of samples needed: 1000
+Current EU:  [2.  4.6 2.4]
+Current expected loss:  0.042
+
+
+EVOI of the current query:  -0.0
+The question selected is: 'User v1, do you prefer c0 or c2? '
+User v1 prefers c2 to c0.
+Pmax =  [3. 6. 4.]
+Pmin =  [0. 3. 2.]
+Number of different questions asked:  4
+Number of samples needed: 1000
+Current EU:  [1.4 4.6 3. ]
+Current expected loss:  0.0
+
+
+A first necessary winner for EVOI is candidate 1
+Runtime = 1.597343924921006econds
+EVOI cuts the communication up to 55.55555555555556 percent
+
+
